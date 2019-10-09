@@ -65,7 +65,7 @@ body {
     border-radius: 10px;
 }
 .button {
-    border-top: 1px solid #131394;
+    border-top: 1px solid #ffffc5;
     background: #83b582;
     background: -webkit-gradient(linear, left top, left bottom, from(#ffffc5), to(#83b582));
     background: -webkit-linear-gradient(top, #ffffc5, #83b582);
@@ -80,7 +80,7 @@ body {
     -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
     box-shadow: rgba(0,0,0,1) 0 1px 0;
     text-shadow: rgba(0,0,0,.4) 0 1px 0;
-    color: #ffffc5;
+    color: #504658;
     font-size: 12px;
     font-family: Georgia, Serif;
     text-decoration: none;
