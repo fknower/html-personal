@@ -1,0 +1,197 @@
+body {
+    background-color: #D6E4AA;
+    margin:30px;
+    height:100px;
+}
+
+.top{
+    margin-right: 160px;
+    color:#51DACF;
+    font-family: 'Itim', cursive;
+    text-align: center;
+    background-color: #FFFFC5;
+    border-radius: 10px;
+}
+
+.cloud1{
+    position:relative;
+    right:90px;
+    top:20px;
+    width: 400px;
+    height:230px;
+}
+
+.cloud2{
+    position: relative;
+    left:50px;
+    top:110px;  
+}
+.screen{
+    margin: 100px auto 100px auto; 
+    width: 370px;
+    height:230px;
+}
+.middle{
+    font-family: 'Itim', cursive;
+    text-align: left;
+    margin : 30px 160px 30px auto;
+    padding-bottom: 90px;
+    background-color:#f0DD92;
+    border-radius: 10px;
+}
+
+.mypic {
+    margin : 50px 10px 50px 100px;
+    border-radius :100%;
+    height:100px;
+}
+
+.opening{
+    color:#3E64ff;
+    text-align: left;
+    line-height: 2;
+    margin:20px 60px 20px 60px;
+}
+.TechSkills{
+    margin-right: 160px;
+    color:#3E64ff;
+    background-color: #FFFFC5;
+    border-radius: 10px;
+}
+.wrkhst{
+    margin-right: 160px;
+    background-color:#f0DD92;
+    padding-right: 140px;
+    border-radius: 10px;
+}
+.button {
+    border-top: 1px solid #131394;
+    background: #83b582;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffffc5), to(#83b582));
+    background: -webkit-linear-gradient(top, #ffffc5, #83b582);
+    background: -moz-linear-gradient(top, #ffffc5, #83b582);
+    background: -ms-linear-gradient(top, #ffffc5, #83b582);
+    background: -o-linear-gradient(top, #ffffc5, #83b582);
+    padding: 8px 16px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    border-radius: 17px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: #051eac;
+    font-size: 12px;
+    font-family: Georgia, Serif;
+    text-decoration: none;
+    vertical-align: middle;
+    margin: 20px;
+
+    }
+ .button:hover {
+    border-top-color: #28597a;
+    background: #28597a;
+    color: #ccc;
+    }
+ .button:active {
+    border-top-color: #1e445e;
+    background: #1e445e;
+    }
+
+.btnDiv{
+    position: fixed;
+    top: 10%;
+    right:0;
+    margin:50px auto 50px auto;
+}
+h1{
+    font-size: 5rem;
+}
+h2{
+    color:#131394;
+    padding-left: 100px;
+}
+h3{
+    color:#131394;
+    padding-left: 150px;
+}
+
+h4{
+    color:#131394;
+    padding-left: 50px;
+}
+hr {
+    width: 3%;
+    border-style: dotted none none none;
+    border-color: blue;
+    border-width: 5px;
+}
+.Qualifications{
+    margin-right:160px;
+    background-color: #FFFFC5;
+    border-radius: 10px;
+}
+
+.bottom{
+    margin-right:160px;
+    background-color: #f0DD92;
+    text-align: center;
+}
+
+table{
+    margin-left: 10%;
+    width:75%;
+    line-height: 3;
+}
+
+td{
+    border: 1px solid #B2FCFF;
+}
+
+.social_media{
+    height:50px;
+    width: 50px;
+}
+
+.card{
+    position : relative;
+    top:20px;
+    left:70%;
+    height:100px;
+    width : 150px;
+}
+.star{
+    color:red;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: #FFFFC5;
+    margin-right:160px;
+    padding-left:30px;
+    border-radius: 10px;
+    }
+    
+.item{
+    color:#131394;
+    align-self: center;
+    }
+
+.header{
+    font-size:2rem;
+    color:#131394;
+    align-content: center;
+
+}
+.paymentOptions{
+    margin-right:160px;
+    padding-left:30px;
+    background-color: #FFFFC5;
+    border-radius: 10px;
+}
+
+.telegram{
+    height:50px;
+    width: 50px;
+}
