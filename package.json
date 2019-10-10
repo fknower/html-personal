@@ -1,0 +1,25 @@
+{
+  "name": "html-personal",
+  "version": "1.0.0",
+  "description": "Personal CV Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fknower/html-personal.git"
+  },
+  "keywords": [
+    "cv",
+    "aboutme",
+    "me",
+    "fknower"
+  ],
+  "author": "francisco knower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fknower/html-personal/issues"
+  },
+  "homepage": "https://github.com/fknower/html-personal#readme"
+}
