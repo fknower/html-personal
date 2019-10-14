@@ -60,13 +60,16 @@ body {
     height:100px;
 }
 nav{
-margin :10px 9% 10px 9%;
+    position: relative;
+    margin :10px 9% 10px 9%;
 }
+
 .button{
     display : inline-block;
     border-block-end-width: 10px;
     font-size : 15px;
     width : 150px;
+    height:25px;
     background-color: #f0DD92;
     border-radius : 7px;
     text-align: center;
@@ -84,8 +87,26 @@ margin :10px 9% 10px 9%;
     text-align: center;
 }
 
-
 .social_media{
     height:50px;
     width: 50px;
+}
+
+.card{
+    position : absolute;
+    margin: 10px 70px 10px 450px;
+    height: 60px;
+    width : 100px;
+}
+
+table{
+    margin-left: 10%;
+    width:75%;
+    line-height: 3;
+    color:#3E64ff;
+    text-align: left;
+}
+
+.star{
+    color : red;
 }
