@@ -1,4 +1,9 @@
-.lloyds{
-    height: 50%;
+.back{
     width: 100%;
+    padding:3rem;
+}
+.lloyds{
+
+    height: 50vh;
+    object-fit: contain;
 }
