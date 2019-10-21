@@ -1,9 +1,22 @@
-.back{
-    width: 100%;
-    padding:3rem;
-}
-.lloyds{
 
-    height: 50vh;
-    object-fit: contain;
+
+.office{
+    position: relative;
+    height:60vh;
+    width:100vw;
+}
+
+.mypic{
+    position:absolute;
+    top:50vh;
+    left: 40vw;
+    height:20vh;
+    width: 15vw;
+    border-radius: 100%;
+}
+.text{
+    position: relative;
+    top:10vh;
+    color: #629999;
+    padding-left: 40vw;
 }

@@ -41,9 +41,10 @@ body {
 }
 
 .mypic {
-    margin : 50px 10px 50px 100px;
+ 
     border-radius :100%;
-    height:100px;
+    width :200px;
+    height:200px;
 }
 
 .opening{
