@@ -1,9 +1,17 @@
 body {
-    background-color: #D6E4AA;
-    margin:30px;
     line-height: 20px;
 }
-
+.office{
+    position: relative;
+    height:60vh;
+    width:100vw;
+}
+.text{
+    position: relative;
+    top:10vh;
+    color: #629999;
+    padding-left: 40vw;
+}
 .top{
     margin :10px 7% 10px 7%;
     color:#51DACF;
@@ -14,34 +22,8 @@ body {
     text-align: center;
 }
 
-.cloud1{
-    position: relative;
-    left:-20%;
-    height: 20vh;
-    width: 30vh;
-    margin: 2vh;
-    -webkit-animation: 30s linear 0s infinite alternate move_eye;
-    animation: 60s linear 0s infinite alternate move_eye;
-}
-
-@-webkit-keyframes move_eye { from { margin-left: -20%; } to { margin-left: 50%; }  }
-        @keyframes move_eye { from { margin-left: -20%; } to { margin-left: 50%; }  }
-
-
-.cloud2{
-    position:relative;
-    left:-10%;
-    height: 18vh;
-    width:28vh;
-    scale:2;
-}
-
-.screen{
-    width: 370px;
-    height:400px;
-    margin-top: 7px;
-}
 .norm{
+    background-color:#FFFFC5 ;
     margin :10px 7% 10px 7%;
     border-radius: 10px;
 }
@@ -54,15 +36,22 @@ body {
 }
 
 .mypic{
-    margin : 50px 10px 50px 100px;
-    border-radius :100%;
-    height:100px;
+    position:absolute;
+    top:60vh;
+    left: 40vw;
+    height:20vh;
+    width: 15vw;
+    border-radius: 100%;
 }
-nav{
-    position: relative;
-    margin :10px 9% 10px 9%;
+.SummeryImage{
+    margin: auto auto auto 40vw;
+    height:20vh;
+    width: 10vw;
+    border-radius: 100%;
 }
-
+nav {
+    margin : 3vh auto 5vh 5vh
+}
 .button{
     display : inline-block;
     border-block-end-width: 10px;
