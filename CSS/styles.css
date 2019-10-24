@@ -12,18 +12,9 @@ body {
     color: #629999;
     padding-left: 40vw;
 }
-.top{
-    margin :10px 7% 10px 7%;
-    color:#51DACF;
-    font-family: 'Itim', cursive;
-    font-size: 20px;
-    background-color: #FFFFC5;
-    border-radius: 10px;
-    text-align: center;
-}
 
 .norm{
-    background-color:#FFFFC5 ;
+    background-color:#dae9f4;
     margin :10px 7% 10px 7%;
     border-radius: 10px;
 }
@@ -55,22 +46,23 @@ nav {
 .button{
     display : inline-block;
     border-block-end-width: 10px;
-    font-size : 15px;
+    font-size : 13px;
     width : 150px;
     height:25px;
-    background-color: #f0DD92;
     border-radius : 7px;
     text-align: center;
+    text-decoration: none;
 }
 
 .button:hover {
   font-size : 20px;
-  background-color: rgb(190, 179, 135);
+  background-color: #77919D;
+  transition-duration: 20ms;
 }
 
 .bottom{
     border-radius: 10px;
-    margin :10px 7% 10px 7%;
+    margin :5px 7% 5px 7%;
     background-color: #f0DD92;
     text-align: center;
 }
